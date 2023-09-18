@@ -1,0 +1,1 @@
+pub static CONFIG: &str = "/api/v3/config"; 
