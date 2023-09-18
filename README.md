@@ -1,4 +1,4 @@
-# yew + trunk + tailwind + axum = 💗
+# yew + trunk + tailwindcss + axum = 💗
 
 ## Introduction
 Skeleton of an application in which [yew](https://github.com/yewstack/yew) + [Trunk](https://trunkrs.dev/) + [tailwindcss](https://tailwindcss.com/) is used to create Single Page App (SPA) which is then served by [axum](https://github.com/tokio-rs/axum). 
